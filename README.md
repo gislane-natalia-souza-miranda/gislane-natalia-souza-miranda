@@ -1,27 +1,27 @@
 Olá! 👋
 
-Meu nome é **Renan Braga**. Sou do Rio de Janeiro, Rj - Brasil :sunglasses:.
+Meu nome é **Dângelo Silva Miranda**. Sou do Ipatinga, MG - Brasil :sunglasses:.
 Sou estudante de Desenvolvimento de Software Full Stack Júnior na Trybe, sou amante da ciência, tecnologia, inovação e educação.
 - Possuo experiência com fundamentos do desenvolvimento web, HTML, CSS, JS.
 - Finalizei recentemente o módulo de Front-End com ReactJS, JestJS, ContextAPI, Redux, entre outras ferramentas.
-- No momento encontro-me no final do módulo de Back-End, onde já estudei: MySQL, MongoDB e Node.js.
-- Busco aperfeiçoamento contínuo por meio de projetos e cursos. Também desenvolvo aplicações web em Bubble.io (no-code) e web sites com Wordpress e Elementor, como freelancer.
+- No momento encontro-me no final do módulo de Back-End, onde já estudei: MySQL, MongoDB, Node.js, Express e JWT.
+- Tenho buscado aperfeiçoamento contínuo por meio de projetos e cursos.
 - Trabalho, invento e acredito em ações que possam gerar um impacto positivo na vida das pessoas.
 
 <h3>Contato</h3>
   <div align="left">
   <span  >
-    <a href="https://www.linkedin.com/in/renanpbraga/" >
+    <a href="https://www.linkedin.com/in/dangelo-silva-miranda/" >
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" width="4%" />
     </a>
   </span>
   <span>
-    <a href="https://www.instagram.com/renanpbraga >
+    <a href="https://www.instagram.com/dangelo.silva.miranda >
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" width="4%"/>
       </a>
   </span>
   <span>
-    <a href="mailto:renanpbraga@gmail.com?subject=Contato%20iniciado%20por%20github">
+    <a href="mailto:dangelo.silva.miranda@gmail.com?subject=Contato%20iniciado%20por%20github">
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/email.svg" width="4%" />
       </a>
     </span>
@@ -72,25 +72,26 @@ Sou estudante de Desenvolvimento de Software Full Stack Júnior na Trybe, sou am
    </div>
 
 ## Sobre mim
-Sou um cara feliz, tranquilo na maioria do tempo.
+Sou um cara feliz, tranquilo na maioria do tempo. Para mim, o copo está sempre meio cheio.
 
-Tive meu primeiro video-game aos 5 anos de idade, então sou fã do Super Mario e Prince of Persia clássico!
+Na infância tive um kit de laboratório e microscópio, onde pude construir as mais variadas experiências e explorar o mundo à minha volta!
 
-Fã de jogos de RPG, também jogo RPG de papel, isso é muito bom, pois o RPG mudou minha vida. Sou fã de livros de fantasia também, Warcraft, Dragonlance, The Witcher.
+Desde o ensino fundamental, sou apaixonado por formas mais eficientes de aplicar aquilo que aprendia e poder compartilhar com os colegas de classe.
+                                                                                             
+Com 15 anos tive meu primeiro computador, onde fiquei fascinado pela possibilidade de criar programas; a primeira coisa que desenvolvi foi uma agenda pessoal usando o Microsoft Access. Isso foi determinante para minha escolha de qual carreira queria seguir.
 
-Sou metaleiro, mas não é qualquer metal que me agrada não. rs. Bandas como Blind Guardian, Angra, Haggard, Metallica, AC/DC, Kamelot, Nightwish (com a Tarja Turunen), Rhapsody (antigo) e Luca Turilli, entre outras bandas de metal melódico e power metal são minhas preferidas.
-
-Sou fãzasso de documentários de vida animal, tecnologia entre outros assuntos.
-
-Tento fazer da minha vida uma verdadeira alquimia, tentando extrair o melhor de tudo que faço. Alquimia também lembra misturas, o que classifica também um pouco da minha vida. Como assim? Bem... Doutor em agronomia, Projetista 3D, Professor de ciências, Desenvolvedor Web... é, esse sou eu.
+Sou fãzasso de documentários sobre educação parental, comunicação não-violenta, tecnologia entre outros assuntos.
+                                                                                             
+Desde que meu filho nasceu, minha vida tem sido um aprendizado contínuo, onde posso me reinventar todos os dias a partir de outras perspectivas.                                                                                       
+Tento fazer da minha vida uma verdadeira alquimia, tentando extrair o melhor de tudo que faço. Alquimia também lembra misturas, o que classifica também um pouco da minha vida. Como assim? Bem... um pequeno cientista, pai, Professor de computação, Desenvolvedor Web... é, esse sou eu.
 
 #### Softskills
 - Ser professor me tornou uma pessoa muito mais comunicativa, empática.
 - Ter transitado por tantas áreas melhorou muito meu autoconhecimento e poder de decisão.
-- Ser projetista 3D me fez aprender a ter senso de time e a trabalhar em equipe.
-- Meu doutorado me ensinou a ter senso crítico, resolver problemas, inteligência emocional (muita) e a ser orientado a resultados.
+- Ter trabalhado com a equipe do IFMG Campus Ouro Branco e ser pessoa estudante da Trybe me fez aprender a ter senso de time e a trabalhar em equipe.
+- Meu mestrado me ensinou a ter senso crítico, resolver problemas, inteligência emocional (muita) e a ser orientado a resultados.
 - Ser pai me tornou muito mais empático, resiliente, carinhoso e principalmente me ensinou a ser uma pessoa melhor.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanpbraga&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangelo-silva-miranda&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanpbraga&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dangelo-silva-miranda&show_icons=true&theme=radical)
