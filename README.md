@@ -16,7 +16,7 @@ Sou estudante de Desenvolvimento de Software Full Stack Júnior na Trybe, sou am
     </a>
   </span>
   <span>
-    <a href="https://www.instagram.com/dangelo.silva.miranda >
+    <a href="https://www.instagram.com/dangelo.silva.miranda/" >
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" width="4%"/>
       </a>
   </span>
