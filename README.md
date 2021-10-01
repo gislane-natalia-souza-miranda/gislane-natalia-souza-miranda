@@ -82,7 +82,8 @@ Com 15 anos tive meu primeiro computador, onde fiquei fascinado pela possibilida
 
 Sou fãzasso de documentários sobre educação parental, comunicação não-violenta, tecnologia entre outros assuntos.
                                                                                              
-Desde que meu filho nasceu, minha vida tem sido um aprendizado contínuo, onde posso me reinventar todos os dias a partir de outras perspectivas.                                                                                       
+Desde que meu filho nasceu, minha vida tem sido um aprendizado contínuo, onde posso me reinventar todos os dias a partir de outras perspectivas.                                          
+
 Tento fazer da minha vida uma verdadeira alquimia, tentando extrair o melhor de tudo que faço. Alquimia também lembra misturas, o que classifica também um pouco da minha vida. Como assim? Bem... um pequeno cientista, pai, Professor de computação, Desenvolvedor Web... é, esse sou eu.
 
 #### Softskills
