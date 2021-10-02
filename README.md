@@ -63,7 +63,7 @@ Sou estudante de Desenvolvimento de Software Full Stack Júnior na Trybe, sou am
    <a href="https://getbootstrap.com/"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="5%" />
    </a>
-   <a href="#"> 
+   <a href="https://www.mysql.com/"> 
       <img src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" width="5%"/>
    </a>
     <a href="https://www.mongodb.com/pt-br"> 
