@@ -33,11 +33,13 @@ Sou estudante de Desenvolvimento de Software Full Stack Júnior na Trybe, sou am
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="5%" />
    </a>
-   <a href="https://pt-br.reactjs.org/" > 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="6%" />
+   <a href="https://pt-br.reactjs.org/" >
+     <img alt="ReactJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="7%" />
+     <!---<img alt="ReactJS" src="https://pt-br.reactjs.org/logo-180x180.png" width="6%" />--->
    </a>
    <a href="https://redux.js.org/"> 
-      <img src="https://redux.js.org/img/redux-logo-landscape.png" width="9%" />
+      <img alt="Redux" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="4.5%" />
+      <!---<img alt="Redux" src="https://redux.js.org/img/redux-logo-landscape.png" width="9%" />--->
    </a>
    <a href="https://pt-br.reactjs.org/docs/hooks-intro.html"> 
       <img src="https://miro.medium.com/max/992/1*vNxRoIvGAIXuArDaSRYjLw.png" width="10%" />
@@ -63,15 +65,31 @@ Sou estudante de Desenvolvimento de Software Full Stack Júnior na Trybe, sou am
    <a href="https://getbootstrap.com/"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="5%" />
    </a>
-   <a href="https://www.mysql.com/"> 
-      <img src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" width="5%"/>
+   <a href="https://www.mysql.com/">     
+      <img alt="MySQL" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="7%"/>
+      <!---<img alt="MySQL" src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" width="5%"/>--->
    </a>
-   <a href="https://www.mongodb.com/pt-br"> 
+   <a href="https://www.mongodb.com/pt-br">
+      <!---<img src="https://cdn.svgporn.com/logos/mongodb.svg" width="12%"/>--->
       <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" width="8%"/>
+   </a>
+   <a href="https://nodejs.org/pt-br/"> 
+      <img src="https://nodejs.org/static/images/favicons/apple-touch-icon.png" width="4%"/>
    </a>
    <a href="https://expressjs.com/"> 
       <img src="https://expressjs.com/images/favicon.png"/>
    </a>
+   <a href="https://jwt.io/"> 
+      <img src="https://jwt.io/img/pic_logo.svg" width="4%"/>
+   </a>
+   <!---
+   <a href="https://www.heroku.com/"> 
+      <img src="https://www.herokucdn.com/favicon.ico" width="4%"/>
+   </a>
+   <a href="https://pm2.keymetrics.io/"> 
+      <img src="https://pm2.keymetrics.io/assets/pm2-logo-1.png" width="15%"/>
+   </a>
+   --->
    </div>
 
 ## Sobre mim
