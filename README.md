@@ -2,11 +2,6 @@ Olá! 👋
 
 Meu nome é **Dângelo Silva Miranda**. Sou do Ipatinga, MG - Brasil :sunglasses:.
 Sou estudante de Desenvolvimento de Software Full Stack Júnior na Trybe, sou amante da ciência, tecnologia, inovação e educação.
-- Possuo experiência com fundamentos do desenvolvimento web, HTML, CSS, JS.
-- Finalizei recentemente o módulo de Front-End com ReactJS, JestJS, ContextAPI, Redux, entre outras ferramentas.
-- No momento encontro-me no final do módulo de Back-End, onde já estudei: MySQL, MongoDB, Node.js, Express e JWT.
-- Tenho buscado aperfeiçoamento contínuo por meio de projetos e cursos.
-- Trabalho, invento e acredito em ações que possam gerar um impacto positivo na vida das pessoas.
 
 <h3>Contato</h3>
   <div align="left">
@@ -93,6 +88,12 @@ Sou estudante de Desenvolvimento de Software Full Stack Júnior na Trybe, sou am
    </div>
 
 ## Sobre mim
+- Possuo experiência com fundamentos do desenvolvimento web, HTML, CSS, JS.
+- Finalizei recentemente o módulo de Front-End com ReactJS, JestJS, ContextAPI, Redux, entre outras ferramentas.
+- No momento encontro-me no final do módulo de Back-End, onde já estudei: MySQL, MongoDB, Node.js, Express e JWT.
+- Tenho buscado aperfeiçoamento contínuo por meio de projetos e cursos.
+- Trabalho, invento e acredito em ações que possam gerar um impacto positivo na vida das pessoas.
+
 Sou um cara feliz, tranquilo na maioria do tempo. Para mim, o copo está sempre meio cheio.
 
 Na infância tive um kit de laboratório e microscópio, onde pude construir as mais variadas experiências e explorar o mundo à minha volta!
