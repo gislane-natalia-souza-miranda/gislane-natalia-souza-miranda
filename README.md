@@ -88,6 +88,6 @@ Sou estudante de Desenvolvimento de Software Full Stack Júnior na Trybe, sou am
    </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangelo-silva-miranda&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gislane-natalia-souza-miranda&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dangelo-silva-miranda&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gislane-natalia-souza-miranda&show_icons=true&theme=radical)
