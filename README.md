@@ -87,33 +87,6 @@ Sou estudante de Desenvolvimento de Software Full Stack Júnior na Trybe, sou am
    --->
    </div>
 
-## Sobre mim
-- Possuo experiência com fundamentos do desenvolvimento web, HTML, CSS, JS.
-- Finalizei recentemente o módulo de Front-End com ReactJS, JestJS, ContextAPI, Redux, entre outras ferramentas.
-- No momento encontro-me no final do módulo de Back-End, onde já estudei: MySQL, MongoDB, Node.js, Express e JWT.
-- Tenho buscado aperfeiçoamento contínuo por meio de projetos e cursos.
-- Trabalho, invento e acredito em ações que possam gerar um impacto positivo na vida das pessoas.
-
-Sou um cara feliz, tranquilo na maioria do tempo. Para mim, o copo está sempre meio cheio.
-
-Na infância tive um kit de laboratório e microscópio, onde pude construir as mais variadas experiências e explorar o mundo à minha volta!
-
-Desde o ensino fundamental, sou apaixonado por formas mais eficientes de aplicar aquilo que aprendia e poder compartilhar com os colegas de classe.
-                                                                                             
-Com 15 anos tive meu primeiro computador, onde fiquei fascinado pela possibilidade de criar programas; a primeira coisa que desenvolvi foi uma agenda pessoal usando o Microsoft Access. Isso foi determinante para minha escolha de qual carreira queria seguir.
-
-Sou fãzasso de documentários sobre educação parental, comunicação não-violenta, tecnologia entre outros assuntos.
-                                                                                             
-Desde que meu filho nasceu, minha vida tem sido um aprendizado contínuo, onde posso me reinventar todos os dias a partir de outras perspectivas.                                          
-
-Tento fazer da minha vida uma verdadeira alquimia, tentando extrair o melhor de tudo que faço. Alquimia também lembra misturas, o que classifica também um pouco da minha vida. Como assim? Bem... um pequeno cientista, pai, Professor de computação, Desenvolvedor Web... é, esse sou eu.
-
-#### Softskills
-- Ser professor me tornou uma pessoa muito mais comunicativa, empática.
-- Ter transitado por tantas áreas melhorou muito meu autoconhecimento e poder de decisão.
-- Ter trabalhado com a equipe do IFMG Campus Ouro Branco e ser pessoa estudante da Trybe me fez aprender a ter senso de time e a trabalhar em equipe.
-- Meu mestrado me ensinou a ter senso crítico, resolver problemas, inteligência emocional (muita) e a ser orientado a resultados.
-- Ser pai me tornou muito mais empático, resiliente, carinhoso e principalmente me ensinou a ser uma pessoa melhor.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangelo-silva-miranda&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
