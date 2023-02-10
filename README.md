@@ -1,6 +1,6 @@
 Olá! 👋
 
-Meu nome é **Dângelo Silva Miranda**. Sou do Ipatinga, MG - Brasil :sunglasses:.
+Meu nome é **Gislane Natália de Souza Miranda**. Sou de Ervália, MG - Brasil :sunglasses:.
 Sou estudante de Desenvolvimento de Software Full Stack Júnior na Trybe, sou amante da ciência, tecnologia, inovação e educação.
 
 <h3>Contato</h3>
