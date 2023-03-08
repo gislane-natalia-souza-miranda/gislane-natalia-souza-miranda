@@ -1,9 +1,10 @@
 Olá! 👋
 
-Meu nome é **Gislane Natália de Souza Miranda**. Sou de Ervália, MG - Brasil :sunglasses:.
+Meu nome é **Gislane Natália de Souza Miranda**. 
+Sou de Ervália, MG - Brasil.
 Sou estudante de Desenvolvimento de Software Full Stack Júnior na Trybe, sou amante da ciência, tecnologia, inovação e educação.
 
-<h3>Contato</h3>
+<h3>Entre em Contato</h3>
   <div align="left">
   <span  >
     <a href="https://www.linkedin.com/in/gislane-natalia-de-souza-miranda/" >
