@@ -6,17 +6,13 @@ Sou estudante de Desenvolvimento de Software Full Stack Júnior na Trybe, sou am
 <h3>Contato</h3>
   <div align="left">
   <span  >
-    <a href="https://www.linkedin.com/in/dangelo-silva-miranda/" >
+    <a href="https://www.linkedin.com/in/gislane-natalia-souza-miranda/" >
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" width="4%" />
     </a>
   </span>
+ 
   <span>
-    <a href="https://www.instagram.com/dangelo.silva.miranda/" >
-      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" width="4%"/>
-      </a>
-  </span>
-  <span>
-    <a href="mailto:dangelo.silva.miranda@gmail.com?subject=Contato%20iniciado%20por%20github">
+    <a href="mailto:gislane.natalia.souza.miranda@gmail.com?subject=Contato%20iniciado%20por%20github">
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/email.svg" width="4%" />
       </a>
     </span>
